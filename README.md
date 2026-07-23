@@ -1,4 +1,6 @@
 # Leet-code-Mahantha
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mahantha1007?theme=light&font=Bebas%20Neue)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
