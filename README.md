@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
