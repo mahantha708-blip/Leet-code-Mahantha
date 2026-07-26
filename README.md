@@ -33,10 +33,12 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0097-interleaving-string) |
 ## Hash Table
 |  |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
