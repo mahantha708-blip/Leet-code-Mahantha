@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
