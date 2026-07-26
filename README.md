@@ -14,6 +14,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
