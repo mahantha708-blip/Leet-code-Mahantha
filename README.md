@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0097-interleaving-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
