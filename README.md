@@ -16,6 +16,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0367-valid-perfect-square) |
 ## Binary Tree
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
