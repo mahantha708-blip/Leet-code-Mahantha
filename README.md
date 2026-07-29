@@ -106,6 +106,7 @@
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0196-delete-duplicate-emails) |
 ## Trie
 |  |
