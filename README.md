@@ -58,6 +58,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -70,4 +71,16 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0367-valid-perfect-square) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
