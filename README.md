@@ -7,10 +7,12 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -21,6 +23,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +45,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0097-interleaving-string](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0139-word-break) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +99,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -120,4 +125,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
