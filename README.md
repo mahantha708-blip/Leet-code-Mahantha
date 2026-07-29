@@ -59,6 +59,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0295-find-median-from-data-stream) |
 ## String Matching
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0295-find-median-from-data-stream) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,16 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
