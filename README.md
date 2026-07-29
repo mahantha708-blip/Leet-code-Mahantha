@@ -97,4 +97,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
