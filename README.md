@@ -20,6 +20,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
+| [0268-missing-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0367-valid-perfect-square) |
 ## Binary Tree
 |  |
@@ -37,10 +38,12 @@
 | [0136-single-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,10 +85,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0295-find-median-from-data-stream) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0367-valid-perfect-square) |
 ## Linked List
 |  |
