@@ -6,11 +6,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
@@ -22,6 +24,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0099-recover-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Array
@@ -90,6 +93,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
