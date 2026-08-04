@@ -44,6 +44,7 @@
 | ------- |
 | [0136-single-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0397-integer-replacement) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0198-house-robber) |
+| [0397-integer-replacement](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0397-integer-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,10 +133,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0397-integer-replacement) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/mahantha708-blip/Leet-code-Mahantha/tree/master/0397-integer-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
